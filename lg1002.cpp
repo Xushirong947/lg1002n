@@ -39,7 +39,9 @@ int main()
 	printf("%lld", map[bx][by]);
 	return 0;
 }
-/*
+
+
+
 long long int map[40][40] = {0};
 long long int Move( int bx, int by)
 {
@@ -77,6 +79,6 @@ int main()
 	ret = Move(bx + 2, by + 2);
 	printf("%lld", ret);
 	return 0;
-}*/
+}
 
 
